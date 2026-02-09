@@ -3,7 +3,7 @@
 ## Student Details
 - Name: Ved Vadnere
 - Roll Number: 2024-B-09072005A
-- GitHub Username: https://github.com/Archis009
+- GitHub Username: Archis009
 
 ---
 
@@ -45,3 +45,4 @@ https://github.com/Archis009/jest-workshop/actions
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
 
+I understood how tests act as a safety net and how CI automatically enforces code correctness on every push.
