@@ -39,10 +39,8 @@ Ensures coupons work regardless of user input casing.
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? Yes
 - GitHub Actions Run URL:
-https://github.com/Archis009/jest-workshop/actions
+https://github.com/Archis009/jest-workshop/actions/runs/21825633411
 ---
 
 ## Reflection (1–2 lines)
-What is **one thing** you understood better about testing or CI after this workshop?
-
 I understood how tests act as a safety net and how CI automatically enforces code correctness on every push.
