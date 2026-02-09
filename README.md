@@ -16,5 +16,5 @@
 - Add GitHub Actions CI to run `npm test` on push and PR
 
 ## Run locally
-npm install
+npm install 
 npm test
